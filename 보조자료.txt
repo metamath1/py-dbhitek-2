@@ -9,6 +9,9 @@ AI 기본 지침
 4. 편하게 대화하 듯 답변하세요.
 
 
+블로그 주소
+https://metamath1.github.io/blog/posts/diffusion/ddpm_part1.html
+
 ML 보조 프로그램
 https://metamath1.github.io/noviceml/linreg2.html
 https://metamath1.github.io/noviceml/toyclassifier2.html
